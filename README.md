@@ -11,7 +11,7 @@
     </tr>
      <tr>
         <td>1</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/2311/2311178.png" width=50 height=50></td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/4464/4464976.png" width=50 height=50></td>
         <td><a target="_blank" href="https://blazor-wasm-mini-pos.netlify.app">Mini POS [C# .NET 6 Blazor Web Assembly]</a></td>
     </tr>
 </table>
