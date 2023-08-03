@@ -15,5 +15,5 @@
         <td><a target="_blank" href="https://blazor-wasm-mini-pos.netlify.app">Mini POS [C# .NET 6 Blazor Web Assembly]</a></td>
     </tr>
 </table>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgchit-coding&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgchit-coding&hide=javascript,html,css&layout=compact&theme=github_dark)
+https://github-readme-stats.vercel.app/api?username=mgchit-coding&show_icons=true&theme=github_dark
+https://github-readme-stats.vercel.app/api/top-langs/?username=mgchit-coding&hide=javascript,html,css&layout=compact&theme=github_dark
