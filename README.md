@@ -1,4 +1,4 @@
-### Hello friends 🤟, I am Chit Lun Htet,but you can call me mg chit.! ⚡
+### Hello friends 🤟, I am Chit Lun Htet, but you can call me mg chit.! ⚡
 🔥 C# / ASP.NET Core / Blazor 🔥
 
 ---
